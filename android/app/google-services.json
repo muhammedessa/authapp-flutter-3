@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "732027099111",
+    "firebase_url": "https://student-b1333.firebaseio.com",
+    "project_id": "student-b1333",
+    "storage_bucket": "student-b1333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732027099111:android:815ff71733ec0554",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732027099111-dv6dtib6vmoagss7vss596004ohtn3mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.codeforiraq.authapp",
+            "certificate_hash": "81da361247d707fac378b566be61dd21244dabe2"
+          }
+        },
+        {
+          "client_id": "732027099111-0b239iaougl0cto9277guf8gvel2kmgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFpuOMBNpSRnHONxz85y7M56sQI1PjjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732027099111-0b239iaougl0cto9277guf8gvel2kmgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732027099111-rortfsj69rmshpffumrfo1bf6ce9nnd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.codeforiraq.authapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732027099111:android:bbd6fa9e36fd621c",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.studentdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732027099111-0b239iaougl0cto9277guf8gvel2kmgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFpuOMBNpSRnHONxz85y7M56sQI1PjjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732027099111:android:34008879f1130715",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.studentdb.studentdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732027099111-0b239iaougl0cto9277guf8gvel2kmgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFpuOMBNpSRnHONxz85y7M56sQI1PjjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
